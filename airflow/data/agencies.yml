@@ -2,6 +2,7 @@ ac-transit:
   agency_name: AC Transit
   gtfs_schedule_url:
   - https://api.actransit.org/transit/gtfs/download?token=2512B81107A09D2DC44895CDDC650D47
+  - http://api.511.org/transit/datafeeds?api_key=%200eefcd07-b7d7-4a16-b454-bc7424dd0ff2%20&operator_id=RG
   itp_id: 4
 alhambra-community-transit:
   agency_name: Alhambra Community Transit
