@@ -308,6 +308,11 @@ fresno-area-express:
   gtfs_schedule_url:
   - https://gis4u.fresno.gov/downloads/zip/fax_gtfs.zip
   itp_id: 116
+get-around-town-express:
+  agency_name: Get Around Town Express
+  gtfs_schedule_url: 
+  - http://data.trilliumtransit.com/gtfs/getaroundtownexpress-ca-us/getaroundtownexpress-ca-us.zip
+  itp_id: 320
 get-bus:
   agency_name: GET Bus
   gtfs_schedule_url:
@@ -318,6 +323,11 @@ glendale-beeline:
   gtfs_schedule_url:
   - http://glendaleca.gov/Home/ShowDocument?id=29549
   itp_id: 1
+glenn-transit-service:
+  agency_name: Glenn Transit Service
+  gtfs_schedule_url: 
+  - http://data.trilliumtransit.com/gtfs/glenn-ca-us/glenn-ca-us.zip
+  itp_id: 122
 glendora-transportation-division:
   agency_name: Glendora Transportation Division
   gtfs_schedule_url:
@@ -386,7 +396,7 @@ kings-area-rural-transit:
 la-campana:
   agency_name: La Campana
   gtfs_schedule_url:
-  - https://data.trilliumtransit.com/gtfs/arvin-ca-us/arvin-ca-us.zip
+  - https://data.trilliumtransit.com/gtfs/lacampana-ca-us/lacampana-ca-us.zip
   itp_id: 35
 laguna-beach-municipal-transit:
   agency_name: Laguna Beach Municipal Transit
@@ -684,6 +694,11 @@ santa-ynez-valley-transit:
   gtfs_schedule_url:
   - http://mjcaction.com/MJC_GTFS_Public/syvt_google_transit.zip
   itp_id: 312
+sierra-madre-gateway-coach:
+  agency_name: Sierra Madre Gateway Coach
+  gtfs_schedule_url: 
+  - http://data.trilliumtransit.com/gtfs/sierramadre-ca-us/sierramadre-ca-us.zip
+  itp_id: 305
 simi-valley-transit:
   agency_name: Simi Valley Transit
   gtfs_schedule_url:
@@ -754,6 +769,11 @@ susanville-indian-rancheria-public-transportation-program:
   gtfs_schedule_url:
   - http://data.trilliumtransit.com/gtfs/tehama-ca-us/tehama-ca-us.zip
   itp_id: 329
+taft-area-transit:
+  agency_name: Taft Area Transit
+  gtfs_schedule_url: 
+  - http://data.trilliumtransit.com/gtfs/taft-co-us/taft-ca-us.zip
+  itp_id: 330
 tahoe-transportation:
   agency_name: Tahoe Transportation
   gtfs_schedule_url:
