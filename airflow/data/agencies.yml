@@ -272,7 +272,7 @@ duarte-transit:
 e-tran:
   agency_name: e-Tran
   gtfs_schedule_url:
-    - https://share.elkgrovecity.org/messages/tpLyuetXMvzjM8oongDM5C/attachments/LbeTBVJuC2Eh3QPKIH6k7R/download/ETRAN_GTFS_15.zip
+    - https://share.elkgrovecity.org/messages/qcR2xbknAcxxzfTGd7EAXH/attachments/NX17rRDtNrNb1d22gQ5tvh/download/ETRAN_GTFS_20191203.zip
   itp_id: 105
 east-los-angeles-shuttle:
   agency_name: East Los Angeles Shuttle
